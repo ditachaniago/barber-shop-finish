@@ -1,0 +1,181 @@
+{
+  "brand": {
+    "name": "NOIR & CO.",
+    "tagline": "Atelier de Grooming",
+    "est": "Est. MMXXIV"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "Maison",
+    "services": "Services",
+    "gallery": "Gallery",
+    "booking": "Reservations",
+    "team": "Maîtres",
+    "membership": "Membership",
+    "contact": "Contact",
+    "bookNow": "Reserve"
+  },
+  "hero": {
+    "eyebrow": "The Art of Modern Gentlemen",
+    "headline": "A Grooming Atelier",
+    "headlineAccent": "Crafted for the Elite",
+    "sub": "An invitation-only sanctuary where precision meets poetry. Hand-sculpted cuts, rare spirits, and the quiet confidence of men who shape the world.",
+    "ctaPrimary": "Reserve Your Chair",
+    "ctaSecondary": "Explore the Maison",
+    "scroll": "Scroll to discover"
+  },
+  "about": {
+    "eyebrow": "About the Maison",
+    "title": "Where Ritual Meets",
+    "titleAccent": "Refinement",
+    "p1": "NOIR & CO. is not a barber shop. It is a sanctuary — conceived in Tokyo, refined in Milan, and now open to the world's most discerning gentlemen.",
+    "p2": "Every chair is a stage. Every cut, a signature. We believe grooming is the silent language of the elite, and we speak it fluently.",
+    "stat1Label": "Years of Craft",
+    "stat2Label": "Master Barbers",
+    "stat3Label": "VIP Members",
+    "stat4Label": "Global Locations"
+  },
+  "services": {
+    "eyebrow": "Signature Services",
+    "title": "Crafted with",
+    "titleAccent": "Obsession",
+    "sub": "Each service is an intimate ritual — measured, considered, and executed with cinematic precision.",
+    "items": [
+      { "name": "Executive Cut", "duration": "60 min", "price": "from $180", "desc": "A bespoke sculpting session tailored to the contours of your life." },
+      { "name": "Hot Towel Shave", "duration": "45 min", "price": "from $120", "desc": "Straight-razor mastery with eucalyptus steam and rare sandalwood oils." },
+      { "name": "Beard Sculpting", "duration": "40 min", "price": "from $95", "desc": "Architectural beard design with premium botanical tonics." },
+      { "name": "Royal Ritual", "duration": "120 min", "price": "from $420", "desc": "The ultimate indulgence — cut, shave, facial, scalp therapy, and whiskey." }
+    ]
+  },
+  "gallery": {
+    "eyebrow": "The Atelier",
+    "title": "Moments of",
+    "titleAccent": "Quiet Luxury",
+    "sub": "Step inside. Each frame tells the story of men who understand the power of presence."
+  },
+  "booking": {
+    "eyebrow": "Reservations",
+    "title": "Reserve Your",
+    "titleAccent": "Moment",
+    "sub": "Our chairs are limited. Your time is not.",
+    "chooseBarber": "Choose Your Maître",
+    "chooseBranch": "Select Location",
+    "chooseService": "Select Service",
+    "chooseDate": "Choose Date & Time",
+    "vipRoom": "Private VIP Suite",
+    "regularChair": "Atelier Chair",
+    "confirm": "Confirm Reservation",
+    "whatsapp": "Continue via WhatsApp",
+    "payment": "Secure Payment",
+    "fullName": "Full Name",
+    "email": "Email Address",
+    "phone": "Phone Number",
+    "notes": "Special Requests",
+    "selectOption": "Select",
+    "success": "Reservation Confirmed",
+    "successMsg": "A confirmation has been sent to your inbox. Our concierge will contact you shortly.",
+    "barbers": ["Maître Kenji", "Maître Laurent", "Maître Rashid", "Maître Alessandro"],
+    "branches": ["Tokyo — Omotesando", "Dubai — DIFC", "New York — SoHo", "London — Mayfair"],
+    "timeSlots": ["10:00", "11:30", "13:00", "14:30", "16:00", "17:30", "19:00"]
+  },
+  "team": {
+    "eyebrow": "The Maîtres",
+    "title": "Hands That",
+    "titleAccent": "Define Generations",
+    "sub": "Trained in Paris, refined in Milan. Each barber is a craftsman of character.",
+    "members": [
+      { "name": "Kenji Tanaka", "role": "Head Maître — Tokyo", "years": "18 years" },
+      { "name": "Laurent Dubois", "role": "Master Barber — Paris", "years": "15 years" },
+      { "name": "Rashid Al-Fahim", "role": "Senior Artisan — Dubai", "years": "12 years" },
+      { "name": "Alessandro Rossi", "role": "Signature Stylist — Milan", "years": "14 years" }
+    ]
+  },
+  "testimonials": {
+    "eyebrow": "Whispered by Gentlemen",
+    "title": "Words from",
+    "titleAccent": "the Inner Circle",
+    "items": [
+      { "quote": "The only chair I trust before a board meeting. Precision is not a service here — it is a philosophy.", "name": "Alexander Chen", "title": "CEO, Helios Capital" },
+      { "quote": "I've been groomed in London, Paris, New York. NOIR & CO. is in a category of its own.", "name": "James Whitaker", "title": "Formula 1 Driver" },
+      { "quote": "A sanctuary for men who value silence, craft, and the finest scotch.", "name": "Khalid Rahman", "title": "Fashion Entrepreneur" }
+    ]
+  },
+  "membership": {
+    "eyebrow": "The Inner Circle",
+    "title": "Become a",
+    "titleAccent": "Member",
+    "sub": "An invitation to a life of considered luxury. Limited to 500 gentlemen worldwide.",
+    "tiers": [
+      {
+        "name": "Gentleman",
+        "price": "$280",
+        "period": "/ month",
+        "perks": ["2 Signature Cuts", "Priority Booking", "Complimentary Whiskey", "Members Lounge Access"]
+      },
+      {
+        "name": "Executive",
+        "price": "$580",
+        "period": "/ month",
+        "perks": ["Unlimited Cuts", "Private VIP Suite", "Personal Maître", "Global Lounge Access", "Quarterly Facial"],
+        "featured": true
+      },
+      {
+        "name": "Sovereign",
+        "price": "Invitation",
+        "period": "only",
+        "perks": ["Everything in Executive", "Home & Hotel Visits", "24/7 Concierge", "Family Privileges", "Annual Retreat"]
+      }
+    ],
+    "join": "Request Invitation"
+  },
+  "app": {
+    "eyebrow": "Digital Concierge",
+    "title": "Your Atelier,",
+    "titleAccent": "In Your Pocket",
+    "sub": "Book, manage, and experience NOIR & CO. from anywhere in the world.",
+    "features": [
+      "Instant Reservations",
+      "Personal Maître Chat",
+      "Membership Rewards",
+      "Global Lounge Finder",
+      "Curated Grooming Journal",
+      "Priority Waitlist"
+    ],
+    "download": "Download on the App Store",
+    "android": "Get it on Google Play"
+  },
+  "location": {
+    "eyebrow": "Find Us",
+    "title": "Our",
+    "titleAccent": "Global Houses",
+    "sub": "Four sanctuaries, one philosophy.",
+    "houses": [
+      { "city": "Tokyo", "address": "3-5-12 Kita-Aoyama, Minato-ku", "hours": "10:00 — 22:00" },
+      { "city": "Dubai", "address": "Gate Village 4, DIFC", "hours": "10:00 — 23:00" },
+      { "city": "New York", "address": "128 Prince Street, SoHo", "hours": "09:00 — 21:00" },
+      { "city": "London", "address": "12 Mount Street, Mayfair", "hours": "10:00 — 21:00" }
+    ]
+  },
+  "footer": {
+    "mission": "An invitation-only grooming atelier for the modern gentleman.",
+    "explore": "Explore",
+    "services": "Services",
+    "membership": "Membership",
+    "contact": "Contact",
+    "press": "Press",
+    "follow": "Follow",
+    "newsletter": "The Journal",
+    "newsletterSub": "Quarterly dispatches on craft, culture, and the considered life.",
+    "subscribe": "Subscribe",
+    "emailPlaceholder": "your@email.com",
+    "rights": "© MMXXVI NOIR & CO. All rights reserved.",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "careers": "Careers"
+  },
+  "lang": {
+    "switch": "Language",
+    "en": "English",
+    "id": "Indonesia"
+  }
+}

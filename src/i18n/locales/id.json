@@ -1,0 +1,181 @@
+{
+  "brand": {
+    "name": "NOIR & CO.",
+    "tagline": "Atelier Perawatan",
+    "est": "Berdiri MMXXIV"
+  },
+  "nav": {
+    "home": "Beranda",
+    "about": "Maison",
+    "services": "Layanan",
+    "gallery": "Galeri",
+    "booking": "Reservasi",
+    "team": "Maître",
+    "membership": "Keanggotaan",
+    "contact": "Kontak",
+    "bookNow": "Reservasi"
+  },
+  "hero": {
+    "eyebrow": "Seni Pria Modern",
+    "headline": "Sebuah Atelier Perawatan",
+    "headlineAccent": "Diciptakan untuk Sang Elit",
+    "sub": "Tempat perlindung eksklusif di mana presisi bertemu puisi. Potongan tangan yang dipahat, minuman langka, dan kepercayaan diri pria yang membentuk dunia.",
+    "ctaPrimary": "Pesan Kursi Anda",
+    "ctaSecondary": "Jelajahi Maison",
+    "scroll": "Gulir untuk menjelajah"
+  },
+  "about": {
+    "eyebrow": "Tentang Maison",
+    "title": "Di Mana Ritual Bertemu",
+    "titleAccent": "Penyempurnaan",
+    "p1": "NOIR & CO. bukan sekadar barbershop. Ini adalah tempat perlindungan — dikandung di Tokyo, disempurnakan di Milan, dan kini terbuka untuk pria paling selektif di dunia.",
+    "p2": "Setiap kursi adalah panggung. Setiap potongan adalah tanda tangan. Kami percaya perawatan adalah bahasa diam para elit, dan kami menguasainya dengan fasih.",
+    "stat1Label": "Tahun Kerajinan",
+    "stat2Label": "Barber Master",
+    "stat3Label": "Anggota VIP",
+    "stat4Label": "Lokasi Global"
+  },
+  "services": {
+    "eyebrow": "Layanan Signature",
+    "title": "Diciptakan dengan",
+    "titleAccent": "Obsesi",
+    "sub": "Setiap layanan adalah ritual intim — diukur, dipertimbangkan, dan dieksekusi dengan presisi sinematik.",
+    "items": [
+      { "name": "Potongan Eksekutif", "duration": "60 mnt", "price": "mulai $180", "desc": "Sesi pahat khusus disesuaikan dengan kontur hidup Anda." },
+      { "name": "Cukur Handuk Panas", "duration": "45 mnt", "price": "mulai $120", "desc": "Penguasaan pisau cukur dengan uap eukaliptus dan minyak cendana langka." },
+      { "name": "Pahatan Jenggot", "duration": "40 mnt", "price": "mulai $95", "desc": "Desain jenggot arsitektural dengan tonik botani premium." },
+      { "name": "Ritual Kerajaan", "duration": "120 mnt", "price": "mulai $420", "desc": "Kemewahan terbaik — potong, cukur, facial, terapi kulit kepala, dan whiskey." }
+    ]
+  },
+  "gallery": {
+    "eyebrow": "Atelier",
+    "title": "Momen",
+    "titleAccent": "Kemewahan Sunyi",
+    "sub": "Masuk ke dalam. Setiap bingkai menceritakan kisah pria yang memahami kekuatan kehadiran."
+  },
+  "booking": {
+    "eyebrow": "Reservasi",
+    "title": "Pesan",
+    "titleAccent": "Momen Anda",
+    "sub": "Kursi kami terbatas. Waktu Anda tidak.",
+    "chooseBarber": "Pilih Maître Anda",
+    "chooseBranch": "Pilih Lokasi",
+    "chooseService": "Pilih Layanan",
+    "chooseDate": "Pilih Tanggal & Waktu",
+    "vipRoom": "Suite VIP Pribadi",
+    "regularChair": "Kursi Atelier",
+    "confirm": "Konfirmasi Reservasi",
+    "whatsapp": "Lanjutkan via WhatsApp",
+    "payment": "Pembayaran Aman",
+    "fullName": "Nama Lengkap",
+    "email": "Alamat Email",
+    "phone": "Nomor Telepon",
+    "notes": "Permintaan Khusus",
+    "selectOption": "Pilih",
+    "success": "Reservasi Dikonfirmasi",
+    "successMsg": "Konfirmasi telah dikirim ke inbox Anda. Concierge kami akan menghubungi Anda segera.",
+    "barbers": ["Maître Kenji", "Maître Laurent", "Maître Rashid", "Maître Alessandro"],
+    "branches": ["Tokyo — Omotesando", "Dubai — DIFC", "New York — SoHo", "London — Mayfair"],
+    "timeSlots": ["10:00", "11:30", "13:00", "14:30", "16:00", "17:30", "19:00"]
+  },
+  "team": {
+    "eyebrow": "Para Maître",
+    "title": "Tangan yang",
+    "titleAccent": "Mendefinisikan Generasi",
+    "sub": "Dilatih di Paris, disempurnakan di Milan. Setiap barber adalah pengrajin karakter.",
+    "members": [
+      { "name": "Kenji Tanaka", "role": "Kepala Maître — Tokyo", "years": "18 tahun" },
+      { "name": "Laurent Dubois", "role": "Barber Master — Paris", "years": "15 tahun" },
+      { "name": "Rashid Al-Fahim", "role": "Artisan Senior — Dubai", "years": "12 tahun" },
+      { "name": "Alessandro Rossi", "role": "Stylist Signature — Milan", "years": "14 tahun" }
+    ]
+  },
+  "testimonials": {
+    "eyebrow": "Bisikan Para Gentleman",
+    "title": "Kata dari",
+    "titleAccent": "Lingkaran Dalam",
+    "items": [
+      { "quote": "Satu-satunya kursi yang saya percaya sebelum rapat direksi. Presisi bukan layanan di sini — ini adalah filosofi.", "name": "Alexander Chen", "title": "CEO, Helios Capital" },
+      { "quote": "Saya pernah dirawat di London, Paris, New York. NOIR & CO. berada di kategorinya sendiri.", "name": "James Whitaker", "title": "Pembalap Formula 1" },
+      { "quote": "Tempat perlindungan bagi pria yang menghargai kesunyian, kerajinan, dan scotch terbaik.", "name": "Khalid Rahman", "title": "Pengusaha Fashion" }
+    ]
+  },
+  "membership": {
+    "eyebrow": "Lingkaran Dalam",
+    "title": "Menjadi",
+    "titleAccent": "Anggota",
+    "sub": "Undangan menuju kehidupan kemewahan yang dipertimbangkan. Terbatas 500 pria di seluruh dunia.",
+    "tiers": [
+      {
+        "name": "Gentleman",
+        "price": "$280",
+        "period": "/ bulan",
+        "perks": ["2 Potongan Signature", "Prioritas Booking", "Whiskey Gratis", "Akses Lounge Anggota"]
+      },
+      {
+        "name": "Eksekutif",
+        "price": "$580",
+        "period": "/ bulan",
+        "perks": ["Potongan Tak Terbatas", "Suite VIP Pribadi", "Maître Pribadi", "Akses Lounge Global", "Facial Triwulan"],
+        "featured": true
+      },
+      {
+        "name": "Sovereign",
+        "price": "Undangan",
+        "period": "saja",
+        "perks": ["Semua di Eksekutif", "Kunjungan Rumah & Hotel", "Concierge 24/7", "Hak Keluarga", "Retret Tahunan"]
+      }
+    ],
+    "join": "Minta Undangan"
+  },
+  "app": {
+    "eyebrow": "Concierge Digital",
+    "title": "Atelier Anda,",
+    "titleAccent": "Dalam Genggaman",
+    "sub": "Pesan, kelola, dan rasakan NOIR & CO. dari mana saja di dunia.",
+    "features": [
+      "Reservasi Instan",
+      "Chat Maître Pribadi",
+      "Hadiah Keanggotaan",
+      "Pencari Lounge Global",
+      "Jurnal Perawatan Kurasi",
+      "Daftar Tunggu Prioritas"
+    ],
+    "download": "Unduh di App Store",
+    "android": "Dapatkan di Google Play"
+  },
+  "location": {
+    "eyebrow": "Temukan Kami",
+    "title": "Rumah",
+    "titleAccent": "Global Kami",
+    "sub": "Empat tempat perlindungan, satu filosofi.",
+    "houses": [
+      { "city": "Tokyo", "address": "3-5-12 Kita-Aoyama, Minato-ku", "hours": "10:00 — 22:00" },
+      { "city": "Dubai", "address": "Gate Village 4, DIFC", "hours": "10:00 — 23:00" },
+      { "city": "New York", "address": "128 Prince Street, SoHo", "hours": "09:00 — 21:00" },
+      { "city": "London", "address": "12 Mount Street, Mayfair", "hours": "10:00 — 21:00" }
+    ]
+  },
+  "footer": {
+    "mission": "Atelier perawatan eksklusif untuk pria modern.",
+    "explore": "Jelajahi",
+    "services": "Layanan",
+    "membership": "Keanggotaan",
+    "contact": "Kontak",
+    "press": "Pers",
+    "follow": "Ikuti",
+    "newsletter": "Jurnal",
+    "newsletterSub": "Kiriman triwulanan tentang kerajinan, budaya, dan kehidupan yang dipertimbangkan.",
+    "subscribe": "Berlangganan",
+    "emailPlaceholder": "email@anda.com",
+    "rights": "© MMXXVI NOIR & CO. Seluruh hak cipta.",
+    "privacy": "Privasi",
+    "terms": "Ketentuan",
+    "careers": "Karir"
+  },
+  "lang": {
+    "switch": "Bahasa",
+    "en": "English",
+    "id": "Indonesia"
+  }
+}
